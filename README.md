@@ -11,5 +11,5 @@ This examplifies how to:
 
 This simple sample of what Hibernate can do is truely useful.
 
-All configuration files, **SQL** db creation file and **Maven** build file are provided and tested.
+All **Hibernate** configuration files, **SQL** db creation file and **Maven** build file are provided and tested.
 
